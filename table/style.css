@@ -1,0 +1,57 @@
+.A{
+    width: 200px;
+    height: 100px;
+    color: rgb(93, 145, 10);
+    background-color: pink;
+    padding: 5px;
+    margin: 10px;
+}
+.A:hover{
+    color: light rgb(206, 206, 238);
+    background-color: aqua;
+    text-decoration: dotted;
+    transform: scale(1.2);
+    transition: 4s;}
+table{
+    border: 2px solid black;
+    text-align: center;
+}
+th{
+    width: 40px;
+    height: 20px;
+    border: 2px;
+}
+.B{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(65, 241, 95);
+    margin: 5px;
+    padding: 60px;
+}
+#a{
+    background-color: rgb(59, 59, 240);
+}
+#b{
+    background-color: rgb(245, 52, 52);
+}
+#c{
+    background-color: rgb(172, 85, 85);
+}
+#d{
+    background-color: pink;
+}
+#e{
+    background-color: aqua;
+}
+#f{
+    background-color: rgb(165, 164, 164);
+}
+#g{
+    background-color: rgb(91, 161, 241);
+}
+#h{
+    background-color: yellow;
+}
+#i{
+    background-color: white;
+}
